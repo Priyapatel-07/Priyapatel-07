@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at my <a href=" ">porfolio Website</a>
 
-- 📫 How to reach me : **www.priyapatel999@gmail.com**
+- 📫 How to reach me : **9priya7patel3@gmail.com**
 
 ## 🚀 Languages and Tools:
 

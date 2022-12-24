@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at my <a href=" https://priyapatel-07.github.io/portfolio/">porfolio Website</a>
+- 👨‍💻 All of my projects are available at my <a href="https://priyapatel-07.github.io/portfolio/">porfolio Website</a>
 
 - 📫 How to reach me : **9priya7patel3@gmail.com**
 
